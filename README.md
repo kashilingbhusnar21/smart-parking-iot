@@ -205,9 +205,6 @@ smart-parking-iot/
 
 ⚠️ Important Notes
 
-- ❌ No Machine Learning is used in this project
-- ❌ IR sensors are NOT used
-- ❌ Slot 4 is NOT used
 - ✅ Only HC-SR04 sensors are used
 - ✅ Database is local and excluded from GitHub
 - ✅ Razorpay keys are stored as environment variables
